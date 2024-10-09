@@ -7,7 +7,7 @@ that repositorie is an publishment of my studies of data structures and algorith
 ## Trees
 - Binary search tree 
 - AVL tree
-# Data structures
+## Data structures
 - Queue
 - Stack
 - Linked list
